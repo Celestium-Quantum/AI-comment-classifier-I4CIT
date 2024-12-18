@@ -60,4 +60,4 @@ If you would like to contribute to this project, feel free to fork the repositor
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or suggestions, please contact [Salil(mailto:salil.apte99!gmail.com) / [Anoop](alashiyal1@student.gsu.edu) / [Rubaiya](rmasnun1@student.gsu.edu)
+For any questions or suggestions, please contact [Salil](mailto:salil.apte99!gmail.com) / [Anoop](alashiyal1@student.gsu.edu) / [Rubaiya](rmasnun1@student.gsu.edu)
