@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 
 3. **Example Command:**
    ```bash
-   python train_model.py --data data/comments.csv
+   python train_model.py --data data/file.csv
    ```
 
 ## Project Structure
